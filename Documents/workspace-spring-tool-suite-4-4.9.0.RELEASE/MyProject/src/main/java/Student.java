@@ -11,6 +11,8 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "student")
 public class Student {
+	
+	//Line addedd from git 
 
 	public Address getAddress() {
 		return address;
