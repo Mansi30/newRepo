@@ -13,6 +13,8 @@ import javax.persistence.Table;
 public class Student {
 	
 	//Line addedd from git 
+	
+	//git added line
 
 	public Address getAddress() {
 		return address;
